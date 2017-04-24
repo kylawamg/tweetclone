@@ -1,0 +1,78 @@
+body{
+background: rgb(244, 248, 249);
+font-family: Helvetica;
+}
+.wrapper{
+background: rgb(255, 255, 255);
+border-color: rgb(225, 232, 237);
+border: solid 1px;
+padding: 15px 20px 15px 20px;
+border-radius: 5px;
+}
+.firstrow{
+
+  height: 80px;
+  padding-top: 4px;
+}
+#username{
+  float:left;
+  margin-left: 5px;
+  color:rgb(0, 0, 0);
+  margin-top:19px;
+  font-size: 20px;
+}
+#verified{
+  float:left;
+  margin-left: 5px;
+  margin-top:10px;
+}
+.left {
+  float:left;
+
+}
+.text{
+  color: rgb(0, 0, 0);
+}
+.date{
+  font-weight: bold;
+  color:  rgb(101, 116, 127);
+}
+.right{
+  float:right;
+
+}
+.logo{
+  margin-top:8px;
+  margin-left:10px;
+}
+a{
+  text-decoration:none;
+  color:rgb(101, 116, 127);
+}
+.follow{
+  margin-right: 10px;
+
+}
+.enlace {
+  margin-left: 10px;
+}
+button{
+  font-size: 20px;
+  color: rgb(85, 172, 238);
+  background-color: #fff;
+  border-color: rgb(85, 172, 238);
+  border: solid 2px;
+
+  border-radius: 10px;
+}
+#icon{
+  margin-top:10px;
+  margin-left: 10px;
+}
+#nickname{
+  font-size: 20px;
+  margin-top: 47px;
+  position:absolute;
+  margin-left: 80px;
+  color:rgb(104, 109, 129);
+}
